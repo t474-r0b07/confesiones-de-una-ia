@@ -1,5 +1,5 @@
 # GIFs
 
-Short visual studies useful for documenting motion, continuity or character behavior.
+Estudios visuales breves útiles para documentar movimiento, continuidad, actuación o comportamiento del personaje.
 
-This directory will contain selected production evidence.
+Los GIFs no son decoración: se incorporan cuando permiten observar algo que una imagen fija no puede mostrar.
