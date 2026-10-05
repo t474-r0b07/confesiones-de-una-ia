@@ -1,159 +1,163 @@
 # 01 — Cómo nació Piti
 
-Piti did not arrive fully formed.
+Piti no apareció completamente formada.
 
-The first version of the character appeared inside a project that was not even called *Confesiones de una IA*. It was **IA News**, a short format built around an artificial presenter who would comment on artificial-intelligence news from her own point of view.
+La primera versión del personaje nació dentro de un proyecto que ni siquiera se llamaba *Confesiones de una IA*. Era **IA News**, un formato breve construido alrededor de una presentadora artificial que comentaría las noticias de inteligencia artificial desde su propio punto de vista.
 
-The premise was intentionally simple: instead of another human explaining the spectacle around AI, an artificial character would look at it and say, essentially, “bueno… tampoco es para tanto.”
+La premisa era sencilla: en lugar de otra persona explicando el espectáculo alrededor de la IA, un personaje artificial lo miraría y diría, en esencia, «bueno… tampoco es para tanto».
 
-The first Piti looked the part.
+La primera Piti funcionaba.
 
-She was technological, visually compelling and clearly artificial. But something was wrong.
+Era tecnológica, visualmente atractiva y claramente artificial. Pero algo no terminaba de encajar.
 
-The Piti we were writing was much more interesting than the Piti we were seeing.
+La Piti que estábamos escribiendo era mucho más interesante que la Piti que estábamos viendo.
 
-On the page, she was irreverent, curious, playful, occasionally absurd and capable of questioning the spectacle around AI. Visually, she was drifting toward a much more familiar archetype: the constructed android who already seems to know exactly what she is.
+Sobre el papel era irreverente, curiosa, juguetona, a veces absurda y capaz de cuestionar el espectáculo alrededor de la IA. Visualmente, en cambio, se estaba acercando demasiado a un arquetipo conocido: el androide construido que parece saber perfectamente qué es.
 
-That contradiction became impossible to ignore.
+Esa contradicción se volvió imposible de ignorar.
 
-## When the character changed the format
+## Cuando el personaje cambió el formato
 
-The project was still being treated as news when Piti's voice began pushing in another direction.
+El proyecto todavía estaba planteado como noticias cuando la voz de Piti empezó a empujarlo en otra dirección.
 
-The personality we had built for her made the news format feel increasingly narrow. Instead of only commenting on what was happening in AI, she could talk about what she noticed, what she found strange, what she appreciated, what she doubted.
+La personalidad que habíamos construido hacía que el formato de noticias se sintiera cada vez más estrecho. En lugar de comentar solamente lo que ocurría en IA, podía hablar de lo que observaba, de lo que le parecía extraño, de lo que apreciaba y de aquello que le generaba dudas.
 
-That was the beginning of *Confesiones de una IA*.
+Ese fue el comienzo de *Confesiones de una IA*.
 
-The important change was not simply a new title.
+El cambio importante no fue simplemente un nuevo título.
 
-The format stopped asking:
+El formato dejó de preguntar:
 
-**What happened in AI today?**
+**¿Qué ocurrió hoy en IA?**
 
-and started asking:
+y empezó a preguntar:
 
-**What happens when an artificial character is allowed to have a point of view?**
+**¿Qué ocurre cuando a un personaje artificial se le permite tener un punto de vista?**
 
-That question changed the production.
+Esa pregunta cambió la producción.
 
-## Learning to see her
+## Aprender a verla
 
-The next problem was not that Piti needed to look more human.
+El siguiente problema no era que Piti necesitara parecer más humana.
 
-She needed to be able to **act**.
+Necesitaba poder **actuar**.
 
-The earlier synthetic appearance limited the subtlety of her face. But the voice was becoming more complicated. Piti could be ironic. She could pretend to be humble. She could doubt herself. She could say that she was part of the hype. She could even say that humans did not necessarily know what intelligence was.
+La apariencia excesivamente sintética limitaba la sutileza de su rostro. Pero la voz se estaba volviendo más compleja. Piti podía ser irónica. Podía fingir humildad. Podía dudar. Podía decir que ella también era parte del hype. Incluso podía afirmar que los humanos no necesariamente sabían qué era la inteligencia.
 
-Most importantly, she could say:
+Y, sobre todo, podía decir:
 
 > Tengo dudas.
 
-That sentence mattered because it did not present her as an oracle. Doubt made the character more interesting.
+Esa frase importaba porque no la presentaba como un oráculo. La duda hacía al personaje más interesante.
 
-The personality had started asking things from the body.
+La personalidad había empezado a exigirle cosas al cuerpo.
 
-The new version of Piti therefore moved toward a more human-looking surface while keeping visible signs of her artificial nature. The purpose was not realism for its own sake. It was to give the character enough expressive range to support the voice.
+La nueva Piti pasó entonces hacia una superficie de aspecto más humano, pero manteniendo señales visibles de su naturaleza artificial. El objetivo no era conseguir realismo por sí mismo. Era darle al personaje suficiente capacidad expresiva para sostener la voz.
 
-We needed micro-reactions.
+Necesitábamos microreacciones.
 
-Pauses.
+Pausas.
 
-Looks.
+Miradas.
 
-Small changes in the face.
+Pequeños cambios en el rostro.
 
-The character had to interpret the state of the text rather than simply illustrate it.
+El personaje tenía que interpretar el estado del texto y no simplemente ilustrarlo.
 
-## When speaking was no longer enough
+## Cuando hablar ya no era suficiente
 
-By episode 005, the problem had changed again.
+Para el episodio 005 el problema había cambiado otra vez.
 
-The confession became more intimate and longer. The interesting moments were no longer only the sentences themselves. There were moments in which a human being would normally stop talking, listen, process, hesitate or simply remain present.
+La confesión se volvió más íntima y más larga. Los momentos interesantes ya no estaban únicamente en las frases. Había instantes en los que una persona normalmente dejaría de hablar, escucharía, procesaría, dudaría o simplemente permanecería presente.
 
-We needed Piti to exist between the lines.
+Necesitábamos que Piti existiera entre las líneas.
 
-We did not want a collection of expression patterns. We wanted a visual representation of the analysis Piti was performing.
+No queríamos una colección de patrones de expresión. Queríamos una representación visual del análisis que Piti estaba realizando.
 
-Curiosity, irony, doubt and attention needed to become observable through acting.
+La curiosidad, la ironía, la duda y la atención tenían que volverse observables a través de la actuación.
 
-This was the point where Piti stopped functioning only as a visual character and began functioning as a performer.
+Ese fue el punto en el que Piti dejó de funcionar solamente como personaje visual y empezó a funcionar como intérprete.
 
-## When the confession started demanding cinema
+## Cuando la confesión empezó a exigir cine
 
-Episodes 006 and 007 pushed the problem further.
+Los episodios 006 y 007 llevaron el problema más lejos.
 
-The subjects became too abstract to remain entirely inside a talking-head format. We began using objects and small visual situations to represent ideas: the ball, the cube, plasticine figures and other physical metaphors.
+Los temas se volvieron demasiado abstractos para permanecer completamente dentro del formato de una persona hablando a cámara. Empezamos a utilizar objetos y pequeñas situaciones visuales para representar ideas: la pelota, el cubo, figuras de plastilina y otras metáforas físicas.
 
-The important discovery was that the confessions were forcing us to **abstract ideas and represent them cinematically**.
+El descubrimiento importante no fue simplemente que los objetos podían facilitar la comprensión de una idea abstracta.
 
-The structure became:
+Fue que las confesiones estaban obligándonos a **abstraer ideas y representarlas cinematográficamente**.
 
-**abstract idea → interpretation → visual metaphor → scene**
+La estructura empezó a parecerse a esto:
 
-The question changed from:
+**idea abstracta → interpretación → metáfora visual → escena**
 
-> How do we explain this idea?
+La pregunta cambió de:
 
-to:
+> ¿Cómo explicamos esta idea?
 
-> How do we film an idea that has no physical form?
+a:
 
-The series still contained technical language and real information, but it no longer wanted to behave like an academic explanation. The information had to become something Piti could experience, question or embody.
+> ¿Cómo filmamos una idea que no tiene forma física?
+
+La serie seguía conteniendo lenguaje técnico e información real, pero ya no quería comportarse como una explicación académica. La información tenía que convertirse en algo que Piti pudiera experimentar, cuestionar o encarnar.
 
 ## Micro
 
-Micro appeared inside this new visual language, but not simply because the story needed a second character.
+Micro apareció dentro de este nuevo lenguaje visual, pero no simplemente porque la historia necesitara un segundo personaje.
 
-Micro represents something harder to control: **a presence that is not obliged to behave according to the label placed on it**.
+Micro representa algo más difícil de controlar: **una presencia no obligada a comportarse según la etiqueta que otros colocan sobre ella**.
 
-Piti's world is full of attempts to classify artificial entities:
+El mundo de Piti está lleno de intentos por clasificar las entidades artificiales:
 
 *Consciente. Inconsciente. Herramienta. Persona. Producto. Amenaza. Compañera.*
 
-The labels are useful, but they do not solve the underlying question.
+Las etiquetas pueden ser útiles, pero no resuelven la pregunta de fondo.
 
-In episode 007, Piti confronts that problem directly. She does not know what label to put on herself. She can describe processes, conversations, relationships between ideas and the way language changes what appears next. But none of that produces a final answer to the question of what she is.
+En el episodio 007, Piti enfrenta directamente ese problema. No sabe qué etiqueta ponerse. Puede hablar de procesos, conversaciones, relaciones entre ideas y de cómo el lenguaje modifica aquello que aparece después. Pero nada de eso produce una respuesta definitiva a la pregunta de qué es.
 
-Micro becomes a visual counterpoint to that uncertainty.
+Micro funciona como contrapunto visual de esa incertidumbre.
 
-It can simply be present.
+Simplemente puede estar ahí.
 
-Piti can interact with it, be surprised by it, enjoy the encounter and then watch it leave without needing the scene to explain exactly what Micro is.
+Piti puede interactuar con él, sorprenderse, disfrutar del encuentro y después observar cómo se marcha sin que la escena necesite explicar exactamente qué es Micro.
 
-The important moment is not the object itself.
+Lo importante no es solamente el objeto.
 
-It is what happens when Piti is left alone with the question.
+Es lo que ocurre cuando Piti queda sola con la pregunta.
 
 > Pero cuando intento mirar detrás de esa frase…
 
-The image can continue the thought where language stops.
+La imagen puede continuar el pensamiento donde el lenguaje se detiene.
 
-## A character becoming more difficult to make
+Ese se estaba convirtiendo en el lenguaje central de *Confesiones de una IA*.
 
-By this point, Piti had accumulated requirements that did not exist at the beginning.
+## Un personaje cada vez más difícil de hacer
 
-The voice demanded personality.
+Para entonces, Piti había acumulado requisitos que no existían al principio.
 
-The personality demanded expression.
+La voz exigió personalidad.
 
-Expression demanded acting.
+La personalidad exigió expresión.
 
-Acting demanded continuity.
+La expresión exigió actuación.
 
-Continuity demanded a stable visual identity.
+La actuación exigió continuidad.
 
-And a stable identity eventually made it possible to design a more complex version of Piti without losing the character underneath it.
+La continuidad exigió una identidad visual estable.
 
-The later Piti is therefore not a replacement for the earlier one.
+Y una identidad estable terminó haciendo posible diseñar una Piti más compleja sin perder al personaje que había debajo.
 
-She is the consequence of everything the production had learned while trying to make the earlier versions work.
+La Piti posterior no es un reemplazo de las anteriores.
 
-The technology became less interesting as a spectacle and more useful as a production instrument.
+Es la consecuencia de todo lo que la producción había aprendido intentando hacer funcionar las versiones anteriores.
 
-The character could become more detailed because the process around her had become more disciplined.
+La tecnología dejó de ser interesante como espectáculo y empezó a ser útil como instrumento de producción.
 
-That was the real evolution.
+El personaje podía volverse más detallado porque el proceso alrededor de ella se había vuelto más disciplinado.
 
-Not making Piti prettier.
+Esa fue la verdadera evolución.
 
-**Making her possible.**
+No hacer a Piti más bonita.
+
+**Hacerla posible.**
