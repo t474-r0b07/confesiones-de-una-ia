@@ -1,5 +1,5 @@
-# Audio Tests
+# Pruebas de audio
 
-Voice, sound-design and music experiments.
+Experimentos de voz, diseño sonoro y música.
 
-This directory will contain selected production evidence.
+Aquí se incorporarán pruebas seleccionadas que ayuden a documentar la evolución del lenguaje sonoro.
