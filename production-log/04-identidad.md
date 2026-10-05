@@ -1,23 +1,23 @@
 # 04 — Identidad
 
-Piti's identity is built through repetition and variation.
+La identidad de Piti se construye mediante repetición y variación.
 
-The orange glasses are an identity anchor.
+Las gafas naranjas son un ancla de identidad.
 
-The circuit lines are part of the character's visual grammar.
+Las líneas de circuito forman parte de la gramática visual del personaje.
 
-The synthetic surface can become more realistic without becoming indistinguishable from human skin. The objective is not to erase artificiality, but to make it subtle enough that the viewer can notice it after first accepting the person in front of them.
+La superficie sintética puede volverse más realista sin convertirse en piel humana indistinguible. El objetivo no es borrar la artificialidad, sino hacerla lo suficientemente sutil como para que el espectador pueda aceptar primero a la persona y descubrir después que algo no termina de ser humano.
 
-The later design also introduced details that emerged during production rather than from an initial specification. Some became part of Piti precisely because they felt like her.
+El diseño posterior también incorporó detalles que aparecieron durante la producción y no necesariamente en una especificación inicial. Algunos terminaron convirtiéndose en rasgos de Piti precisamente porque se sentían propios de ella.
 
-## Production
+## Producción
 
-_To be expanded with character sheets and visual tests._
+_Por ampliar con fichas de personaje y pruebas visuales._
 
-## Research
+## Investigación
 
-_To be expanded._
+_Por ampliar._
 
-## Question
+## Pregunta
 
-How human can an artificial character look before realism starts destroying the reason for the character to exist?
+¿Cuánto puede parecer humana una entidad artificial antes de que el realismo empiece a destruir la razón por la que el personaje existe?
