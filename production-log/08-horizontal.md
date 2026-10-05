@@ -1,21 +1,21 @@
 # 08 — Horizontal
 
-Episode 008 marks another production change: the confession is no longer constrained by the short-form vertical format.
+El episodio 008 marca otro cambio de producción: la confesión deja de estar limitada por el formato vertical de corta duración.
 
-The horizontal frame allows more time and space for Piti to breathe, look, react and let a thought develop without compressing every beat into short-form rhythm.
+El encuadre horizontal permite más tiempo y espacio para que Piti respire, mire, reaccione y deje que una idea se desarrolle sin comprimir cada momento dentro del ritmo del formato corto.
 
-This is not simply a change of aspect ratio.
+No es simplemente un cambio de relación de aspecto.
 
-It changes direction, pacing, composition and performance.
+Cambia la dirección, el ritmo, la composición y la interpretación.
 
-## Production
+## Producción
 
-_To be expanded after the episode is finalized._
+_Por ampliar después de finalizar el episodio._
 
-## Research
+## Investigación
 
-_To be expanded._
+_Por ampliar._
 
-## Question
+## Pregunta
 
-What changes when the character is finally allowed to stay in a scene longer than the format expects?
+¿Qué cambia cuando el personaje finalmente puede permanecer en una escena más tiempo del que espera el formato?
