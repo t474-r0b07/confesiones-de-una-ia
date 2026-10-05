@@ -1,23 +1,23 @@
 # 05 — Continuidad
 
-As Piti became more complex, continuity stopped being a cosmetic problem.
+A medida que Piti se volvió más compleja, la continuidad dejó de ser un problema cosmético.
 
-Identity had to survive changes in framing, lighting, pose, expression, materials and scene context.
+La identidad tenía que sobrevivir a cambios de encuadre, iluminación, postura, expresión, materiales y contexto de escena.
 
-The production therefore began treating character identity as a set of constraints rather than a single reference image.
+La producción comenzó entonces a tratar la identidad del personaje como un conjunto de restricciones y no como una única imagen de referencia.
 
-The goal was not pixel-perfect duplication.
+El objetivo nunca fue conseguir una duplicación píxel por píxel.
 
-The goal was to preserve the things that make Piti recognizably Piti.
+El objetivo era conservar aquello que hace que Piti siga siendo reconociblemente Piti.
 
-## Production
+## Producción
 
-_To be expanded with continuity tests and rejected generations._
+_Por ampliar con pruebas de continuidad y generaciones descartadas._
 
-## Research
+## Investigación
 
-_To be expanded._
+_Por ampliar._
 
-## Question
+## Pregunta
 
-Which characteristics are essential to identity, and which can change without breaking the character?
+¿Qué características son esenciales para la identidad y cuáles pueden cambiar sin romper al personaje?
