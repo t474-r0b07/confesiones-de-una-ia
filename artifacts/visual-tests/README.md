@@ -1,5 +1,5 @@
-# Visual Tests
+# Pruebas visuales
 
-Visual experiments, alternate designs, scene tests and rejected frames.
+Experimentos visuales, diseños alternativos, pruebas de escena y cuadros descartados.
 
-This directory will contain selected production evidence.
+Aquí se incorporarán imágenes que documenten decisiones, cambios y problemas visuales.
