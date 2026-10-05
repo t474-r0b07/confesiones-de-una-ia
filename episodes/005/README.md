@@ -1,7 +1,7 @@
-# Episode 005
+# Episodio 005
 
-Production material for *Confesiones de una IA* — episode 005.
+Material de producción de *Confesiones de una IA* — episodio 005.
 
-This directory will hold episode-specific scripts, notes, references, tests and selected production evidence.
+Aquí se incorporarán guion, notas, referencias, pruebas y evidencia seleccionada del proceso de producción.
 
-_Status: documentation in progress._
+**Estado:** documentación en desarrollo.
