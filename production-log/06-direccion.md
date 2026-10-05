@@ -1,21 +1,21 @@
 # 06 — Dirección
 
-At some point the project stopped being only a sequence of generated shots.
+En algún momento el proyecto dejó de ser solamente una secuencia de planos generados.
 
-It became direction.
+Se convirtió en dirección.
 
-A scene had to have a reason to exist. A gesture had to belong to the situation. A camera position had to communicate something. An object could become a metaphor instead of decoration.
+Una escena tenía que tener una razón para existir. Un gesto tenía que pertenecer a la situación. Una posición de cámara tenía que comunicar algo. Un objeto podía convertirse en metáfora en lugar de decoración.
 
-This chapter will document how the production moved from isolated images toward scenes with intention, continuity and rhythm.
+Este capítulo documentará cómo la producción pasó de imágenes aisladas a escenas con intención, continuidad y ritmo.
 
-## Production
+## Producción
 
-_To be expanded._
+_Por ampliar._
 
-## Research
+## Investigación
 
-_To be expanded._
+_Por ampliar._
 
-## Question
+## Pregunta
 
-How much of directing an artificial performer can be encoded as constraints, and how much has to remain interpretation?
+¿Cuánto de la dirección de un intérprete artificial puede convertirse en restricciones y cuánto tiene que permanecer como interpretación?
