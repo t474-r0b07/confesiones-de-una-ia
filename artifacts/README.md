@@ -1,15 +1,15 @@
-# Artifacts
+# Artefactos
 
-Artifacts are production evidence.
+Los artefactos son evidencia del proceso de producción.
 
-They are kept here when they help explain how a decision was made, how a problem was discovered or how the visual and audio language evolved.
+Se conservan cuando ayudan a explicar cómo se tomó una decisión, cómo se descubrió un problema o cómo evolucionó el lenguaje visual y sonoro.
 
-## Categories
+## Categorías
 
-- Character sheets
-- Visual tests
-- Animation tests
-- Audio tests
-- GIFs
+- [Fichas de personaje](character-sheets/README.md)
+- [Pruebas visuales](visual-tests/README.md)
+- [Pruebas de animación](animation-tests/README.md)
+- [Pruebas de audio](audio-tests/README.md)
+- [GIFs](gifs/README.md)
 
-The archive should favor useful evidence over volume.
+El archivo debe priorizar evidencia útil sobre volumen.
