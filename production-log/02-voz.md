@@ -1,25 +1,25 @@
 # 02 — Voz
 
-The voice became one of the forces that changed Piti's physical design.
+La voz fue una de las fuerzas que transformaron el diseño físico de Piti.
 
-The production did not treat voice as a final layer placed over an already finished character. The voice determined what the character needed to be capable of expressing.
+La producción no trató la voz como una capa final colocada sobre un personaje ya terminado. La voz determinó qué necesitaba ser capaz de expresar el personaje.
 
-Piti could be ironic, doubtful, curious, playful and occasionally uncomfortable with the conclusions she was reaching.
+Piti podía ser irónica, dudosa, curiosa, juguetona y, ocasionalmente, sentirse incómoda con las conclusiones a las que estaba llegando.
 
-That range created a visual requirement:
+Ese rango creó una exigencia visual:
 
-**the face had to carry states of thought, not only emotions.**
+**el rostro tenía que transmitir estados de pensamiento, no solamente emociones.**
 
-This chapter will document voice experiments, performance decisions, pauses, processing and the relationship between speech and visual acting.
+Este capítulo documentará los experimentos de voz, las decisiones de interpretación, las pausas, el procesamiento y la relación entre habla y actuación visual.
 
-## Production
+## Producción
 
-_To be expanded with production evidence._
+_Por ampliar con evidencia de producción._
 
-## Research
+## Investigación
 
-_To be expanded._
+_Por ampliar._
 
-## Question
+## Pregunta
 
-What does an artificial character sound like when the performance is not trying to convince us that she is human?
+¿Qué suena diferente en un personaje artificial cuando la interpretación no intenta convencer al espectador de que es humano?
