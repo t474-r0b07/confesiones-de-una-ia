@@ -1,5 +1,5 @@
-# Character Sheets
+# Fichas de personaje
 
-Character references, identity studies and visual continuity material.
+Referencias del personaje, estudios de identidad y material de continuidad visual.
 
-This directory will contain selected production evidence.
+Aquí se incorporarán imágenes de las distintas etapas de diseño de Piti y comparaciones que ayuden a entender su evolución.
