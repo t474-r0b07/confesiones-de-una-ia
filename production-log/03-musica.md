@@ -194,54 +194,10 @@ Lo que nos interesaba era trabajar la **sensación de la pieza** y explorar hast
 
 Por eso, en la documentación pública podemos mostrar que estas pruebas existieron, qué intentábamos conseguir y qué observamos durante el proceso, pero no convertirlas en una receta universal ni atribuirles efectos que no hayamos demostrado.
 
-## Investigación sensorial: tensión, frecuencia y presencia
-
-La experimentación fue más concreta que simplemente hablar de “capas sensoriales”.
-
-Trabajamos con **drones para construir tensión sostenida**, capas de **sub-bass para aumentar la sensación de densidad y presencia**, y frecuencias extremadamente bajas —por ejemplo, alrededor de **30 Hz**— como parte de experimentos destinados a explorar sensaciones de inquietud, presión o ansiedad.
-
-También utilizamos **disonancias, intervalos tensos, acumulación de capas, cambios de intensidad, silencios y resoluciones deliberadamente retrasadas** para modificar la percepción de una escena.
-
-Algunas de estas frecuencias pueden encontrarse en el límite inferior de la audición humana o incluso fuera de lo que puede percibirse como tono definido, por lo que su función no siempre consiste en que el espectador pueda identificarlas conscientemente.
-
-Nos interesa precisamente ese territorio: elementos que pueden formar parte de la experiencia sonora sin convertirse necesariamente en información musical reconocible.
-
-El objetivo no es afirmar que **30 Hz = ansiedad** ni convertir una frecuencia concreta en una receta fisiológica universal.
-
-La frecuencia es un material.
-
-El drone es un material.
-
-La tensión es un material.
-
-El sub-bass es un material.
-
-La investigación consiste en observar cómo estos materiales funcionan **dentro de una composición, una mezcla y una escena concretas**.
-
-La pregunta tampoco es simplemente *“¿qué frecuencia produce determinada sensación?”*.
-
-La pregunta que nos interesa es otra:
-
-**¿Puede una composición diseñarse para ser percibida en más de una capa al mismo tiempo?**
-
-Una capa que escuchamos.
-
-Una capa que reconocemos musicalmente.
-
-Una capa que sentimos como tensión, espacio o presencia.
-
-Y una capa cuya función quizá no podamos identificar conscientemente.
-
-En ese sentido, la experimentación no busca demostrar que una determinada frecuencia *hace* sentir algo específico. Busca ampliar el vocabulario con el que construimos la experiencia sonora de Piti.
-
-**No solamente hacer música para que Piti hable.  
-Hacer un espacio sonoro en el que Piti pueda existir.**
-
 ## La música también necesita espacio
 
 Algo que aprendimos trabajando con Piti es que una mezcla puede perder expresividad cuando intentamos llenarlo todo.
-
-La música necesita espacio para convivir con la voz.
+ para convivir con la voz.
 
 La voz necesita espacio para respirar.
 
@@ -321,7 +277,19 @@ _Este capítulo se ampliará con pruebas musicales, versiones descartadas, compa
 
 ## Investigación
 
-_Las observaciones de este capítulo describen decisiones y aprendizajes de producción. Las pruebas relacionadas con frecuencias, drones, sub-bass y capas sensoriales se documentan como experimentación artística y técnica, no como evidencia de efectos fisiológicos universales._
+Las pruebas fueron más concretas que simplemente hablar de “capas sensoriales”. Trabajamos con **drones para construir tensión sostenida**, capas de **sub-bass para aumentar la sensación de densidad y presencia**, y frecuencias extremadamente bajas —por ejemplo, alrededor de **30 Hz**— como parte de experimentos destinados a explorar sensaciones de inquietud, presión o ansiedad.
+
+También utilizamos **disonancias, intervalos tensos, acumulación de capas, cambios de intensidad, silencios y resoluciones deliberadamente retrasadas** para modificar la percepción de una escena. Algunas de estas frecuencias pueden encontrarse en el límite inferior de la audición humana o incluso fuera de lo que puede percibirse como tono definido, por lo que su función no siempre consiste en que el espectador pueda identificarlas conscientemente.
+
+No afirmamos que **30 Hz = ansiedad**, ni que una frecuencia concreta produzca universalmente una respuesta fisiológica determinada. La frecuencia es un material. El drone es un material. La tensión es un material. El sub-bass es un material. La investigación consiste en observar cómo estos materiales funcionan dentro de una composición, una mezcla y una escena concretas.
+
+La pregunta no es simplemente *“¿qué frecuencia produce determinada sensación?”*. Nos interesa explorar otra posibilidad:
+
+**¿Puede una composición diseñarse para ser percibida en más de una capa al mismo tiempo?**
+
+Una capa que escuchamos. Una capa que reconocemos musicalmente. Una capa que sentimos como tensión, espacio o presencia. Y una capa cuya función quizá no podamos identificar conscientemente.
+
+Estas pruebas se documentan como experimentación artística y técnica, no como evidencia de efectos fisiológicos universales.
 
 ## Pregunta
 
