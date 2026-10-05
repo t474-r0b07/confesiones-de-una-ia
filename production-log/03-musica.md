@@ -74,6 +74,50 @@ Precisamente al contrario.
 
 Queríamos que funcionaran juntas.
 
+## Antes de Piti: Meconio
+
+La experimentación sonora que terminó apareciendo en *Confesiones de una IA* tampoco empezó con Piti.
+
+Mucho antes existió **Meconio**, un proyecto independiente que desarrollamos junto a Jaimuzz y Manson, en paralelo a *Maldita Jakeca*.
+
+Meconio nació precisamente de la necesidad de experimentar.
+
+La referencia no era un único género ni una fórmula. Había influencias de artistas y proyectos que utilizaban el ruido, la tensión, la energía, la electrónica, la disonancia y la ruptura de estructuras de maneras muy diferentes: Trent Reznor, The Mars Volta, At the Drive-In, Mr. Bungle, Mike Patton y otras referencias de ese universo.
+
+El resultado fue un disco de **14 canciones completamente digitales**.
+
+Pero la parte más importante no era que fuera digital.
+
+Era lo que intentábamos hacer con ello.
+
+Grabábamos sonidos en la calle, trabajábamos con secuencias digitales y construíamos ritmos frenéticos. La intención no era simplemente producir canciones extrañas o difíciles de clasificar.
+
+Queríamos experimentar con **sensaciones que fueran más allá de los sentidos**.
+
+Eso convirtió a Meconio en una especie de laboratorio temprano: un espacio donde el sonido podía ser utilizado no solamente para construir una melodía o un ritmo, sino para intentar provocar una experiencia.
+
+No todas aquellas ideas tenían una explicación científica detrás.
+
+Y precisamente por eso resulta importante distinguir la investigación artística de una afirmación científica.
+
+Lo que existía era una pregunta creativa:
+
+**¿podemos construir una experiencia sonora que se perciba más allá de lo que normalmente entendemos como escuchar música?**
+
+Esa pregunta quedó ahí durante años.
+
+Con Piti reapareció en otro contexto.
+
+Ya no estábamos haciendo un disco experimental con dos amigos. Estábamos construyendo una entidad artificial y tratando de decidir cómo debía sonar su mundo.
+
+Pero la intuición de fondo era parecida:
+
+**el sonido no tiene por qué limitarse a ser información para el oído. Puede formar parte de la experiencia completa de una escena.**
+
+Por eso las pruebas sensoriales de *Confesiones* no aparecen de la nada.
+
+Son una continuación, en otro medio y con otro propósito, de una investigación creativa que ya había comenzado mucho antes.
+
 ## No le damos solamente datos al generador
 
 Otro aprendizaje importante apareció al momento de generar la música.
