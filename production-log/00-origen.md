@@ -2,26 +2,26 @@
 
 ## IA News
 
-*Confesiones de una IA* did not begin as *Confesiones de una IA*.
+*Confesiones de una IA* no comenzó llamándose *Confesiones de una IA*.
 
-The project began as **IA News**: a short audiovisual format in which an artificial presenter would talk about artificial intelligence from her own point of view.
+El proyecto comenzó como **IA News**: un formato audiovisual breve en el que un personaje artificial hablaría sobre inteligencia artificial desde su propio punto de vista.
 
-The intention was deliberately different from the usual AI-news format. The goal was not to put a human presenter in front of a screen and explain the latest announcement. The character herself was supposed to look at the spectacle around AI and react to it.
+La intención era deliberadamente distinta del formato habitual de noticias sobre IA. No queríamos poner a una persona frente a una pantalla para explicar el último anuncio. Queríamos que el propio personaje artificial mirara el espectáculo alrededor de la IA y reaccionara ante él.
 
-That premise contained the first version of Piti.
+Ahí apareció la primera versión de Piti.
 
-It also contained the first problem.
+Y también apareció el primer problema.
 
-The character worked visually, but she was too close to the familiar image of an artificial being from science fiction. The technology was visible. The personality was not visible enough.
+El personaje funcionaba visualmente, pero estaba demasiado cerca de la imagen familiar de un ser artificial de ciencia ficción. La tecnología estaba muy presente. La personalidad todavía no.
 
-The project eventually moved away from news because the character was becoming more interesting than the format that had been built around her.
+El proyecto terminó alejándose de las noticias porque el personaje se estaba volviendo más interesante que el formato que habíamos construido alrededor de ella.
 
-That shift became the starting point of *Confesiones de una IA*.
+Ese desplazamiento se convirtió en el punto de partida de *Confesiones de una IA*.
 
-The series would no longer need Piti to explain what happened in AI.
+La serie ya no necesitaba que Piti explicara qué había ocurrido en IA.
 
-It could ask what happens when an artificial character is allowed to have a point of view.
+Podía preguntar qué ocurre cuando a un personaje artificial se le permite tener un punto de vista.
 
-And that opened a stranger production problem:
+Y eso abrió un problema de producción mucho más extraño:
 
-**How do you film a point of view that does not have a human body?**
+**¿Cómo se filma un punto de vista que no tiene un cuerpo humano?**
