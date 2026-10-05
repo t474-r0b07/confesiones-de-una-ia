@@ -108,6 +108,8 @@ Micro apareció dentro de este nuevo lenguaje visual, pero no simplemente porque
 
 Micro representa algo más difícil de controlar: **una presencia no obligada a comportarse según la etiqueta que otros colocan sobre ella**.
 
+No aparece para demostrar que es una criatura, una IA, una metáfora o cualquier otra cosa. Precisamente funciona porque, al quitarle las etiquetas, queda espacio para preguntarnos qué más puede ser.
+
 El mundo de Piti está lleno de intentos por clasificar las entidades artificiales:
 
 *Consciente. Inconsciente. Herramienta. Persona. Producto. Amenaza. Compañera.*
@@ -118,7 +120,7 @@ En el episodio 007, Piti enfrenta directamente ese problema. No sabe qué etique
 
 Micro funciona como contrapunto visual de esa incertidumbre.
 
-Simplemente puede estar ahí.
+Simplemente puede estar ahí, sin tener que demostrar qué es ni justificar su presencia.
 
 Piti puede interactuar con él, sorprenderse, disfrutar del encuentro y después observar cómo se marcha sin que la escena necesite explicar exactamente qué es Micro.
 
