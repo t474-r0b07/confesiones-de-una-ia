@@ -1,19 +1,19 @@
 # 07 — Errores
 
-The rejected material is part of the production.
+El material descartado también forma parte de la producción.
 
-A failed generation, a broken continuity, an expression that communicates the wrong thing or an image that technically works but destroys the character can reveal more than a successful frame.
+Una generación fallida, una continuidad rota, una expresión que comunica algo equivocado o una imagen que funciona técnicamente pero destruye al personaje pueden revelar más que un plano exitoso.
 
-This chapter will collect failures worth preserving because they changed the process.
+Este capítulo reunirá errores que valga la pena conservar porque cambiaron el proceso.
 
-## Production
+## Producción
 
-_To be expanded with selected failures._
+_Por ampliar con errores seleccionados._
 
-## Research
+## Investigación
 
-_To be expanded._
+_Por ampliar._
 
-## Question
+## Pregunta
 
-What can a failure tell us about the system that produced it?
+¿Qué puede decirnos un fallo sobre el sistema que lo produjo?
