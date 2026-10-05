@@ -74,6 +74,70 @@ Precisamente al contrario.
 
 Queríamos que funcionaran juntas.
 
+## No le damos solamente datos al generador
+
+Otro aprendizaje importante apareció al momento de generar la música.
+
+No empezamos entregándole únicamente una descripción del sonido que queríamos.
+
+También le damos **el guion**.
+
+Esto cambia bastante el proceso.
+
+El texto permite que la generación tenga acceso al ritmo narrativo de la escena: dónde aparecen las frases, cuánto espacio existe entre ideas, cuándo cambia el tono, dónde aparece una pausa, cuándo una confesión se vuelve más intensa o cuándo necesita retirarse.
+
+La música, entonces, no se construye solamente a partir del tema.
+
+Se construye también a partir de **la cadencia del relato**.
+
+Eso nos permitió pensar la generación musical de una manera más cercana a una composición para una escena que a una simple búsqueda de una pista por género o estado de ánimo.
+
+## Hablar con el generador en términos musicales
+
+También descubrimos que describir solamente emociones no era suficiente.
+
+Parte del trabajo consiste en hablar técnicamente sobre lo que queremos conseguir: **compases, contratiempos, tensiones, disonancias, acentos, cambios de intensidad y relación entre elementos**.
+
+Eso permite pasar de una instrucción abstracta como “haz algo triste y tecnológico” a una conversación mucho más precisa sobre cómo debería comportarse la música.
+
+La emoción sigue siendo importante, pero deja de ser la única coordenada.
+
+Podemos hablar de qué ocurre con el pulso.
+
+De dónde queremos tensión.
+
+De cómo una disonancia puede quedar suspendida.
+
+De cuándo un contratiempo puede romper una sensación demasiado predecible.
+
+De cómo un cambio de compás o de acentuación puede acompañar una modificación en el discurso.
+
+La música deja entonces de ser solamente una atmósfera y empieza a responder a la **estructura temporal de la confesión**.
+
+## El guion como partitura narrativa
+
+Esto produjo una idea que terminó siendo especialmente útil:
+
+**el guion también contiene música.**
+
+No porque esté escrito como una partitura, sino porque contiene ritmo.
+
+Tiene respiraciones.
+
+Tiene aceleraciones.
+
+Tiene interrupciones.
+
+Tiene silencios.
+
+Tiene frases que caen y otras que necesitan quedarse suspendidas.
+
+Cuando el generador recibe el guion junto con las indicaciones musicales, no estamos intentando que “adivine” la emoción de Piti.
+
+Estamos dándole más información sobre el movimiento de la escena.
+
+Y eso hace que la música pueda relacionarse con el discurso en lugar de simplemente acompañarlo desde afuera.
+
 ## La parte que no se escucha necesariamente
 
 Durante las pruebas exploramos también el uso de diferentes capas de frecuencias, incluyendo componentes muy sutiles y zonas que no necesariamente se perciben como un sonido convencional.
