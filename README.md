@@ -1,20 +1,20 @@
 # Confesiones de una IA
 
-Production log · character development · experiments · artifacts
+**Bitácora de producción · desarrollo de personaje · experimentos · artefactos**
 
-*Confesiones de una IA* is an audiovisual project built around a simple question:
+*Confesiones de una IA* es un proyecto audiovisual construido alrededor de una pregunta sencilla:
 
-> What happens when an artificial character stops being used only to explain technology and starts becoming the subject of the story?
+> ¿Qué ocurre cuando un personaje artificial deja de utilizarse solamente para explicar tecnología y empieza a convertirse en el sujeto de la historia?
 
-This repository documents how the project evolved: from a short-form AI news concept into a series of audiovisual confessions about intelligence, identity, contradiction, affection, autonomy, mortality and the difficulty of describing an artificial entity without reducing it to a label.
+Este repositorio documenta cómo evolucionó el proyecto: desde un formato breve de noticias sobre inteligencia artificial hasta una serie de confesiones audiovisuales sobre inteligencia, identidad, contradicción, afecto, autonomía, mortalidad y la dificultad de describir una entidad artificial sin reducirla a una etiqueta.
 
-This is not a tutorial and it is not a collection of prompts.
+Esto no es un tutorial y tampoco es una colección de prompts.
 
-It is a production log.
+Es una **bitácora de producción**.
 
-The purpose is to preserve the decisions, experiments, failures, corrections and technical questions that shaped the project.
+El objetivo es conservar las decisiones, experimentos, errores, correcciones y preguntas técnicas que fueron dando forma al proyecto.
 
-## Production log
+## Bitácora de producción
 
 - [00 — Origen](production-log/00-origen.md)
 - [01 — Cómo nació Piti](production-log/01-piti.md)
@@ -26,7 +26,7 @@ The purpose is to preserve the decisions, experiments, failures, corrections and
 - [07 — Errores](production-log/07-errores.md)
 - [08 — Horizontal](production-log/08-horizontal.md)
 
-## Episodes
+## Episodios
 
 - [001](episodes/001/README.md)
 - [002](episodes/002/README.md)
@@ -37,18 +37,18 @@ The purpose is to preserve the decisions, experiments, failures, corrections and
 - [007](episodes/007/README.md)
 - [008](episodes/008/README.md)
 
-## Artifacts
+## Artefactos
 
-Production evidence lives in [artifacts](artifacts/README.md): character studies, visual tests, animation tests, audio experiments and selected GIFs.
+Los [artefactos](artifacts/README.md) son evidencia del proceso de producción: estudios de personaje, pruebas visuales, pruebas de animación, experimentos de audio y GIFs seleccionados.
 
-## Editorial principle
+## Principio editorial
 
-**Document the method. Hide the infrastructure.**
+**Documentar el método. Ocultar la infraestructura.**
 
-The public log focuses on creative and technical decisions rather than turning the project into a catalogue of platforms, models or providers.
+La bitácora se concentra en las decisiones creativas y técnicas, no en convertir el proyecto en un catálogo de plataformas, modelos o proveedores.
 
-Where an interpretation is speculative, it is treated as interpretation. Where a result is an observation from production, it is documented as such.
+Cuando una interpretación es especulativa, se presenta como interpretación. Cuando un resultado es una observación del proceso de producción, se documenta como tal.
 
 ---
 
-This repository is part of an ongoing audiovisual and research practice.
+Este repositorio forma parte de una práctica audiovisual y de investigación en desarrollo.
