@@ -1,19 +1,19 @@
 # 03 — Música
 
-Music in *Confesiones de una IA* is treated as part of the episode's identity rather than interchangeable background.
+En *Confesiones de una IA*, la música se trata como parte de la identidad de cada episodio y no como un fondo intercambiable.
 
-Each piece has to negotiate two layers at once: something recognizably emotional and something subtly synthetic.
+Cada pieza necesita negociar dos capas a la vez: algo reconociblemente emocional y algo sutilmente sintético.
 
-The public log will document creative intention, experiments and observed results without turning them into unsupported claims about how sound affects the body.
+La bitácora pública documentará la intención creativa, los experimentos y los resultados observados sin convertirlos en recetas ni en afirmaciones no respaldadas sobre los efectos del sonido en el cuerpo.
 
-## Production
+## Producción
 
-_To be expanded._
+_Por ampliar._
 
-## Research
+## Investigación
 
-_To be expanded._
+_Por ampliar._
 
-## Question
+## Pregunta
 
-What does an artificial intelligence sound like when it tries to express something that humans normally associate with feeling?
+¿A qué suena una inteligencia artificial cuando intenta expresar algo que normalmente asociamos con sentir?
