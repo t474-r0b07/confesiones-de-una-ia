@@ -1,7 +1,7 @@
-# Episode 008
+# Episodio 008
 
-Production material for *Confesiones de una IA* — episode 008.
+Material de producción de *Confesiones de una IA* — episodio 008.
 
-This directory will hold episode-specific scripts, notes, references, tests and selected production evidence.
+Aquí se incorporarán guion, notas, referencias, pruebas y evidencia seleccionada del proceso de producción.
 
-_Status: documentation in progress._
+**Estado:** documentación en desarrollo.
