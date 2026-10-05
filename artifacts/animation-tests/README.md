@@ -1,5 +1,5 @@
-# Animation Tests
+# Pruebas de animación
 
-Motion, acting, continuity and camera experiments.
+Experimentos de movimiento, actuación, continuidad y cámara.
 
-This directory will contain selected production evidence.
+Aquí se incorporarán GIFs y otros fragmentos breves que permitan observar el comportamiento del personaje.
