@@ -1,7 +1,7 @@
-# Episode 002
+# Episodio 002
 
-Production material for *Confesiones de una IA* — episode 002.
+Material de producción de *Confesiones de una IA* — episodio 002.
 
-This directory will hold episode-specific scripts, notes, references, tests and selected production evidence.
+Aquí se incorporarán guion, notas, referencias, pruebas y evidencia seleccionada del proceso de producción.
 
-_Status: documentation in progress._
+**Estado:** documentación en desarrollo.
