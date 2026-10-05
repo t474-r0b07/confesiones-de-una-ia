@@ -1,7 +1,7 @@
-# Episode 006
+# Episodio 006
 
-Production material for *Confesiones de una IA* — episode 006.
+Material de producción de *Confesiones de una IA* — episodio 006.
 
-This directory will hold episode-specific scripts, notes, references, tests and selected production evidence.
+Aquí se incorporarán guion, notas, referencias, pruebas y evidencia seleccionada del proceso de producción.
 
-_Status: documentation in progress._
+**Estado:** documentación en desarrollo.
