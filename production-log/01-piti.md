@@ -73,18 +73,6 @@ Miradas.
 Pequeños cambios en el rostro.
 
 El personaje tenía que interpretar el estado del texto y no simplemente ilustrarlo.
-
-<p align="center">
-  <img src="../artifacts/character-sheets/Character_sheet_for_Piti_20261005130340.jpg" alt="Piti — estudio de personaje" width="360">
-  <img src="../artifacts/character-sheets/Character_sheet_for_Piti_20261005130524.jpg" alt="Piti — estudio de personaje" width="360">
-</p>
-
-<p align="center">
-  <img src="../artifacts/character-sheets/Character_sheet_for_Piti_20261005130915.jpg" alt="Piti — estudio de personaje" width="360">
-  <img src="../artifacts/character-sheets/Character_sheet_for_Piti_20261005141708.jpg" alt="Piti — estudio de personaje" width="360">
-</p>
-
-
 <p align="center">
   <img src="../artifacts/gifs/facial-test.gif" alt="Prueba facial de Piti" width="360">
   <img src="../artifacts/gifs/skin%20texture%20and%20expresion.gif" alt="Prueba de textura y expresión de Piti" width="360">
@@ -301,6 +289,22 @@ Y una identidad estable terminó haciendo posible diseñar una Piti más complej
 La Piti posterior no es un reemplazo de las anteriores.
 
 Es la consecuencia de todo lo que la producción había aprendido intentando hacer funcionar las versiones anteriores.
+
+
+<p align="center">
+  <img src="../artifacts/character-sheets/Character_sheet_for_Piti_20261005130340.jpg" alt="Piti — character sheet, new era" width="360">
+  <img src="../artifacts/character-sheets/Character_sheet_for_Piti_20261005130524.jpg" alt="Piti — character sheet, new era" width="360">
+</p>
+
+<p align="center">
+  <img src="../artifacts/character-sheets/Character_sheet_for_Piti_20261005130915.jpg" alt="Piti — character sheet, new era" width="360">
+  <img src="../artifacts/character-sheets/Character_sheet_for_Piti_20261005141708.jpg" alt="Piti — character sheet, new era" width="360">
+</p>
+
+<p align="center">
+  <em>La Piti de la nueva etapa, ya en la altura de producción del episodio 008.</em>
+</p>
+
 
 La tecnología dejó de ser interesante como espectáculo y empezó a ser útil como instrumento de producción.
 
