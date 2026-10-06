@@ -145,15 +145,6 @@ Tenía que **reaccionar**.
   <em>Pruebas de expresión y reacción facial para una Piti capaz de sostener una escena.</em>
 </p>
 
-<p align="center">
-  <img src="../artifacts/gifs/skin%20texture%20and%20expresion.gif" alt="Prueba de textura y expresión de Piti" width="360">
-  <img src="../artifacts/gifs/body_expresion.gif" alt="Prueba de expresión corporal de Piti" width="360">
-</p>
-
-<p align="center">
-  <em>La actuación también debía existir en el cuerpo.</em>
-</p>
-
 ## Micro
 
 Micro apareció dentro de este nuevo lenguaje visual, pero no simplemente porque la historia necesitara un segundo personaje.
@@ -241,6 +232,15 @@ Detrás de un enchufe.
 En un rincón oscuro de una máquina.
 
 Y eventualmente, dentro de la historia de Piti.
+
+<p align="center">
+  <img src="../artifacts/gifs/micro1.gif" alt="Micro — prueba visual 01" width="360">
+  <img src="../artifacts/gifs/micro2.gif" alt="Micro — prueba visual 02" width="360">
+</p>
+
+<p align="center">
+  <em>Pruebas de movimiento y comportamiento de Micro.</em>
+</p>
 
 ### Una criatura que no sabe que está dentro de una historia
 
