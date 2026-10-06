@@ -1,3 +1,5 @@
+![Piti y Micro](https://raw.githubusercontent.com/t474-r0b07/confesiones-de-una-ia/refs/heads/main/artifacts/character-sheets/t474hero.jpeg)
+
 # Confesiones de una IA
 
 **Bitácora de producción · desarrollo de personaje · experimentos · artefactos**
