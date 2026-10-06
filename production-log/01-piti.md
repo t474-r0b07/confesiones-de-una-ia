@@ -1,7 +1,11 @@
 # 01 — Cómo nació Piti
 
 <p align="center">
-  <img src="../artifacts/character-sheets/t474hero.jpeg" alt="Piti — hero" width="760">
+  <img src="../artifacts/character-sheets/piti_evolution.jpg" alt="Piti — evolución del personaje" width="760">
+</p>
+
+<p align="center">
+  <em>Evolución visual de Piti.</em>
 </p>
 
 Piti no apareció completamente formada.
