@@ -16,6 +16,16 @@ Sobre el papel era irreverente, curiosa, juguetona, a veces absurda y capaz de c
 
 Esa contradicción se volvió imposible de ignorar.
 
+<p align="center">
+  <img src="../artifacts/character-sheets/piti1_char_sheet.jpg" alt="Piti — character sheet 01" width="360">
+  <img src="../artifacts/character-sheets/piti2_char_sheet.jpg" alt="Piti — character sheet 02" width="360">
+</p>
+
+<p align="center">
+  <em>Primeras referencias de continuidad visual.</em>
+</p>
+
+
 ## Cuando el personaje cambió el formato
 
 El proyecto todavía estaba planteado como noticias cuando la voz de Piti empezó a empujarlo en otra dirección.
@@ -64,6 +74,23 @@ Pequeños cambios en el rostro.
 
 El personaje tenía que interpretar el estado del texto y no simplemente ilustrarlo.
 
+<p align="center">
+  <img src="../artifacts/character-sheets/Character_sheet_for_Piti_20261005130340.jpg" alt="Piti — estudio de personaje" width="360">
+  <img src="../artifacts/character-sheets/Character_sheet_for_Piti_20261005130524.jpg" alt="Piti — estudio de personaje" width="360">
+</p>
+
+<p align="center">
+  <img src="../artifacts/character-sheets/Character_sheet_for_Piti_20261005130915.jpg" alt="Piti — estudio de personaje" width="360">
+  <img src="../artifacts/character-sheets/Character_sheet_for_Piti_20261005141708.jpg" alt="Piti — estudio de personaje" width="360">
+</p>
+
+
+<p align="center">
+  <img src="../artifacts/gifs/facial-test.gif" alt="Prueba facial de Piti" width="360">
+  <img src="../artifacts/gifs/skin%20texture%20and%20expresion.gif" alt="Prueba de textura y expresión de Piti" width="360">
+</p>
+
+
 ## Cuando hablar ya no era suficiente
 
 Para el episodio 005 el problema había cambiado otra vez.
@@ -77,6 +104,12 @@ No queríamos una colección de patrones de expresión. Queríamos una represent
 La curiosidad, la ironía, la duda y la atención tenían que volverse observables a través de la actuación.
 
 Ese fue el punto en el que Piti dejó de funcionar solamente como personaje visual y empezó a funcionar como intérprete.
+
+<p align="center">
+  <img src="../artifacts/gifs/head%20wireframe.gif" alt="Prueba de estructura de cabeza" width="360">
+  <img src="../artifacts/gifs/body-wireframe.gif" alt="Prueba de estructura corporal" width="360">
+</p>
+
 
 ## Cuando la confesión empezó a exigir cine
 
@@ -111,6 +144,12 @@ Micro representa algo más difícil de controlar: **una presencia no obligada a 
 No aparece para demostrar que es una criatura, una IA, una metáfora o cualquier otra cosa. Precisamente funciona porque, al quitarle las etiquetas, queda espacio para preguntarnos qué más puede ser.
 
 Pero Micro tampoco nació de la nada.
+
+
+<p align="center">
+  <img src="../artifacts/character-sheets/micro_char_sheet.webp" alt="Micro — character sheet" width="420">
+</p>
+
 
 Para diseñarlo buscamos dos referencias biológicas distintas y decidimos cruzarlas deliberadamente para construir una especie que pudiera pertenecer al mundo de Piti sin dejar de sentirse extrañamente posible.
 
@@ -245,6 +284,17 @@ La expresión exigió actuación.
 La actuación exigió continuidad.
 
 La continuidad exigió una identidad visual estable.
+
+<p align="center">
+  <img src="../artifacts/gifs/dark_360_degree_turn.gif" alt="Prueba 360 — dark" width="360">
+  <img src="../artifacts/gifs/light_360_degree_turn.gif" alt="Prueba 360 — light" width="360">
+</p>
+
+
+<p align="center">
+  <img src="../artifacts/gifs/render_test_new_era.gif" alt="Prueba de render — nueva etapa" width="520">
+</p>
+
 
 Y una identidad estable terminó haciendo posible diseñar una Piti más compleja sin perder al personaje que había debajo.
 
