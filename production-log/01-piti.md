@@ -1,5 +1,9 @@
 # 01 — Cómo nació Piti
 
+<p align="center">
+  <img src="../artifacts/character-sheets/t474hero.jpeg" alt="Piti — hero" width="760">
+</p>
+
 Piti no apareció completamente formada.
 
 La primera versión del personaje nació dentro de un proyecto que ni siquiera se llamaba *Confesiones de una IA*. Era **IA News**, un formato breve construido alrededor de una presentadora artificial que comentaría las noticias de inteligencia artificial desde su propio punto de vista.
@@ -73,9 +77,10 @@ Miradas.
 Pequeños cambios en el rostro.
 
 El personaje tenía que interpretar el estado del texto y no simplemente ilustrarlo.
+
 <p align="center">
-  <img src="../artifacts/gifs/facial-test.gif" alt="Prueba facial de Piti" width="360">
   <img src="../artifacts/gifs/skin%20texture%20and%20expresion.gif" alt="Prueba de textura y expresión de Piti" width="360">
+  <img src="../artifacts/gifs/body_expresion.gif" alt="Prueba de expresión corporal de Piti" width="360">
 </p>
 
 
@@ -122,6 +127,28 @@ a:
 > ¿Cómo filmamos una idea que no tiene forma física?
 
 La serie seguía conteniendo lenguaje técnico e información real, pero ya no quería comportarse como una explicación académica. La información tenía que convertirse en algo que Piti pudiera experimentar, cuestionar o encarnar.
+
+Y para que eso funcionara, el rostro ya no podía limitarse a acompañar el texto.
+
+Tenía que **reaccionar**.
+
+<p align="center">
+  <img src="../artifacts/gifs/facial-test.gif" alt="Prueba facial de Piti" width="360">
+  <img src="../artifacts/gifs/piti_facial_reaction.gif" alt="Prueba de reacción facial de Piti" width="360">
+</p>
+
+<p align="center">
+  <em>Pruebas de expresión y reacción facial para una Piti capaz de sostener una escena.</em>
+</p>
+
+<p align="center">
+  <img src="../artifacts/gifs/skin%20texture%20and%20expresion.gif" alt="Prueba de textura y expresión de Piti" width="360">
+  <img src="../artifacts/gifs/body_expresion.gif" alt="Prueba de expresión corporal de Piti" width="360">
+</p>
+
+<p align="center">
+  <em>La actuación también debía existir en el cuerpo.</em>
+</p>
 
 ## Micro
 
