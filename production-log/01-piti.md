@@ -110,6 +110,104 @@ Micro representa algo más difícil de controlar: **una presencia no obligada a 
 
 No aparece para demostrar que es una criatura, una IA, una metáfora o cualquier otra cosa. Precisamente funciona porque, al quitarle las etiquetas, queda espacio para preguntarnos qué más puede ser.
 
+Pero Micro tampoco nació de la nada.
+
+Para diseñarlo buscamos dos referencias biológicas distintas y decidimos cruzarlas deliberadamente para construir una especie que pudiera pertenecer al mundo de Piti sin dejar de sentirse extrañamente posible.
+
+Una de las referencias fue la familia **Nocticolidae**, asociada a cucarachas adaptadas a ambientes oscuros y cavernícolas. La otra fue **Lucihormetica**, un género de cucarachas conocido por su bioluminiscencia.
+
+No queríamos copiar ninguna de las dos.
+
+Queríamos imaginar qué ocurriría si tomábamos de una la lógica corporal y ambiental de un pequeño habitante de espacios oscuros y de la otra la capacidad de producir luz, y después colocábamos esa criatura dentro de un entorno que nosotros mismos habíamos construido.
+
+Así nació Micro.
+
+Dentro del lore de *Confesiones de una IA*, Micro es una pequeña especie ficticia de origen boliviano. Su historia comienza mucho antes de conocer a Piti: era un organismo cavernícola, adaptado a lugares oscuros, cálidos y protegidos.
+
+Pero el desplazamiento y la expansión humana fueron cambiando su hábitat.
+
+Y Micro se adaptó.
+
+Los espacios que para nosotros son basura tecnológica o interiores de máquinas —fuentes de alimentación, componentes, enchufes, equipos electrónicos, pequeños huecos alrededor de placas— podían ofrecer exactamente lo que buscaba: oscuridad, calor y refugio.
+
+La tecnología no está dentro de Micro.
+
+**La tecnología se convirtió en su hábitat.**
+
+Eso también explica una de las decisiones más importantes de su diseño: Micro tenía que ser suficientemente pequeña para moverse físicamente dentro de una motherboard.
+
+No queríamos un animal gigante posado sobre un circuito como decoración.
+
+Queríamos imaginar una criatura capaz de caminar entre componentes, esconderse en los espacios que deja una placa electrónica y encontrar allí un ecosistema que nosotros jamás pensamos que pudiera ser un ecosistema.
+
+La bioluminiscencia tampoco existe solamente porque se viera bonita.
+
+Es la segunda mitad del cruce biológico que define su diseño. Micro incorpora una referencia visual a *Lucihormetica*: pequeños puntos de luz orgánica en su cuerpo, tenues, cálidos y discretos.
+
+Nada de LED.
+
+Nada de neón cyberpunk.
+
+La luz tiene que parecer producida por un organismo.
+
+El resultado es una especie que **parece fantástica, pero cuya apariencia está construida a partir de referencias biológicas reales**.
+
+Y esa distinción es importante.
+
+Micro es ficción.
+
+Pero no es una criatura inventada sin relación con el mundo.
+
+Es una especulación biológica construida a partir de dos referencias y colocada dentro de un mundo narrativo donde la tecnología se convirtió, accidentalmente, en hábitat.
+
+### El nombre
+
+El nombre **Micro** nació de algo mucho más sencillo que una clasificación científica.
+
+Tenía que ser pequeño.
+
+Muy pequeño.
+
+Lo suficientemente pequeño para atravesar los límites físicos de la máquina y, a través de ella, acceder al mundo de Piti.
+
+Por eso el nombre funciona también como una pista: no describe completamente a la criatura. Describe una de sus condiciones fundamentales.
+
+Micro es pequeña porque necesita poder existir donde casi nadie mira.
+
+Entre componentes.
+
+Dentro de una carcasa.
+
+Detrás de un enchufe.
+
+En un rincón oscuro de una máquina.
+
+Y eventualmente, dentro de la historia de Piti.
+
+### Una criatura que no sabe que está dentro de una historia
+
+Hay otra decisión importante en su diseño.
+
+Micro no es una mascota.
+
+No le asignamos una psicología humana ni una intención concreta. Piti puede observarla, interpretar sus movimientos, sorprenderse, disfrutar de su compañía e intentar entender qué está haciendo.
+
+Pero la serie no confirma qué está pensando Micro.
+
+Puede que esté explorando.
+
+Puede que simplemente esté buscando alimento o refugio.
+
+Puede que para ella Piti sea tan extraña como Micro lo es para Piti.
+
+Eso permite que su encuentro funcione de una manera distinta.
+
+Piti está intentando entender qué es ella misma.
+
+Micro simplemente está ahí.
+
+Y quizá esa sea la razón por la que funciona tan bien como contrapunto.
+
 El mundo de Piti está lleno de intentos por clasificar las entidades artificiales:
 
 *Consciente. Inconsciente. Herramienta. Persona. Producto. Amenaza. Compañera.*
