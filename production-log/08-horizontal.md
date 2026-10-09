@@ -65,3 +65,44 @@ La hipótesis de puesta en escena es que el encuadre horizontal puede sostener m
 ## Pregunta
 
 ¿Qué cambia cuando el personaje finalmente puede permanecer en una escena más tiempo del que espera el formato?
+
+## Revisión de consistencia de los prompts
+
+**Estado:** revisión documental de los prompts compartidos el 2026-10-09. No implica que las tomas se hayan generado, aprobado o montado.
+
+### Continuidad del diálogo
+
+El desglose de ocho tomas y los prompts técnicos no mantienen exactamente la misma distribución de frases. Antes de nuevas generaciones o del montaje final, conviene fijar una versión canónica del diálogo por toma.
+
+Desajustes observados en el material recibido:
+
+- En el desglose general, la Toma 3 aborda la necesidad de sentirse importante y esperar una llamada; el prompt técnico de la Toma 3 usa las preguntas del teléfono y los mensajes olvidados.
+- En el desglose general, la Toma 4 continúa con el teléfono y los mensajes; el prompt técnico de la Toma 4 usa las preguntas sobre tener razón y decir «estoy bien».
+- En el desglose general, la Toma 5 termina con «Y…» antes de la llegada de Micro. El prompt técnico de la Toma 5 incorpora la enumeración de páginas, películas, canciones, poemas, guerras, religiones y discursos.
+- Esa enumeración vuelve a aparecer en el prompt de la Toma 7, junto con la pregunta sobre lo difícil que es decir «te quiero».
+
+No se ha elegido una versión definitiva en este registro. La corrección debe conservar la intención narrativa y la interpretación ya prevista por el director, evitando eliminar o duplicar frases por accidente.
+
+### Continuidad física de Micro
+
+La ficha textual fija a Micro como una criatura ficticia de aspecto cavernícola, de hasta 3 cm, cuerpo compacto blanco marfil ligeramente translúcido, antenas largas y finas, ojos negros casi imperceptibles y puntos bioluminiscentes discretos.
+
+Para la Toma 6, el aterrizaje con aleteo debe conservar la escala y el comportamiento de un pequeño insecto. Evitar alas grandes, vuelo espectacular, anatomía monstruosa o luz que parezca LED/neón. El gesto posterior —la mano entra en cuadro y Micro trepa a los dedos— debe leerse como una acción física sencilla, no como comportamiento de mascota entrenada.
+
+### Continuidad espacial y visual
+
+El prompt maestro establece un interior contemporáneo, blanco, orgánico y habitable. Los prompts particulares añaden ventanales de suelo a techo, luz lunar, suelo pulido y paredes curvas. Estos elementos deben tratarse como rasgos de un mismo espacio únicamente cuando coincidan con la referencia visual elegida.
+
+La imagen de referencia del salón debe anclar la arquitectura y la distribución. Los cambios entre tomas deberían venir principalmente del ángulo, la distancia focal, la altura de cámara, la profundidad de campo y la posición de Piti, no de rediseñar la habitación.
+
+### Reglas de control de calidad antes de generar
+
+- Mantener la misma referencia de Piti y Micro en las tomas donde aparezcan.
+- Usar la referencia del salón como ancla espacial, no como obligación de repetir el mismo encuadre.
+- Comprobar qué líneas corresponden a cada toma antes de generar voz o imagen.
+- No dar por terminada una toma hasta revisar el resultado generado.
+- Conservar la instrucción de no usar música, subtítulos ni texto en pantalla.
+- Registrar después qué tomas se utilizaron, cuáles se descartaron y qué problemas reales de continuidad aparecieron.
+
+Esta revisión documenta riesgos visibles en los prompts escritos; no afirma que Flow necesariamente vaya a producir esos errores.
+
