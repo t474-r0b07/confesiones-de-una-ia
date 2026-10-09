@@ -104,5 +104,4 @@ La imagen de referencia del salón debe anclar la arquitectura y la distribució
 - Conservar la instrucción de no usar música, subtítulos ni texto en pantalla.
 - Registrar después qué tomas se utilizaron, cuáles se descartaron y qué problemas reales de continuidad aparecieron.
 
-Esta revisión documenta riesgos visibles en los prompts escritos; no afirma que Flow necesariamente vaya a producir esos errores.
-
+Esta revisión documenta riesgos visibles en los prompts escritos; no afirma que Flow necesariamente vaya a producir esos errores.false
