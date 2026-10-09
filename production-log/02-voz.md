@@ -231,3 +231,41 @@ _Las observaciones técnicas de este capítulo describen decisiones y aprendizaj
 ## Pregunta
 
 ¿Qué ocurre cuando una voz artificial deja de limitarse a pronunciar un texto y empieza a interpretar el pensamiento que existe dentro de él?
+
+## Registro de producción — dirección textual en ElevenLabs v2
+
+**Fecha del registro:** 2026-10-09  
+**Estado:** observaciones prácticas del proceso de producción; pendientes de recopilar ejemplos de audio y comprobar su reproducibilidad.  
+**Alcance:** método de trabajo usado para dirigir la voz de Piti en ElevenLabs v2 sin depender de etiquetas expresivas.
+
+Durante las pruebas recientes, la dirección de la interpretación empezó a apoyarse más en la puntuación y en la forma de escribir el texto que en las etiquetas de actuación. La razón práctica es que las etiquetas expresivas disponibles pueden resultar demasiado intensas para el registro buscado: la interpretación se vuelve más enfática o teatral de lo necesario.
+
+El objetivo es orientar microdecisiones de interpretación —pausas, continuidad, cierre, duda y énfasis— sin pedirle explícitamente a la voz que represente una emoción completa.
+
+### Convenciones observadas
+
+| Recurso escrito | Uso buscado durante la producción | Estado |
+| --- | --- | --- |
+| Guiones bajos repetidos | Crear espacios o silencios dentro de la frase. La cantidad de marcas se utiliza como parte de la indicación temporal. | Observación del usuario; falta registrar ejemplos y medir cuánto cambia la duración real. |
+| Comas | Mantener la continuidad del pensamiento y evitar que cada fragmento suene como una frase aislada. | Técnica de trabajo observada; el efecto depende del contexto. |
+| Punto | Favorecer un cierre seco o firme, en vez de prolongar innecesariamente la intención de la frase. | Técnica de trabajo observada; no implica que el motor siempre produzca el mismo resultado. |
+| Puntos suspensivos (...) | Introducir suspensión o una intención que queda abierta, especialmente en preguntas que no deben sonar como una interrogación convencional. | Técnica de trabajo observada; requiere ejemplos comparativos. |
+| Signos de interrogación | No garantizan por sí solos la entonación de una pregunta natural. Según el texto y el contexto, pueden orientar una lectura de duda más que una pregunta convencional. | Observación del usuario; no debe generalizarse como regla universal del motor. |
+| MAYÚSCULAS | Marcar la palabra o el fragmento que necesita énfasis. | Técnica de trabajo observada; conviene usarlas de forma selectiva para evitar sobreénfasis. |
+
+Estas convenciones describen el método que se está desarrollando para este personaje. No constituyen una especificación oficial de ElevenLabs ni garantizan un resultado idéntico en todas las generaciones. El modelo, la frase, la voz elegida y el contexto pueden modificar la interpretación.
+
+### Criterio de dirección
+
+La meta no es que cada frase tenga una emoción evidente, sino que la voz parezca avanzar por un pensamiento. Las pausas, los cortes y los énfasis deben conservar diferencias pequeñas entre una frase y otra. Si la interpretación se vuelve demasiado dramática, conviene revisar primero la construcción textual antes de añadir más instrucciones expresivas.
+
+### Próximos registros útiles
+
+- Conservar ejemplos de texto exacto y el audio resultante.
+- Comparar una misma frase con y sin una marca, cambiando una sola variable por prueba.
+- Anotar cuándo una convención funciona, cuándo falla y qué condiciones parecen influir.
+- Registrar duración aproximada de los silencios y si cambia entre generaciones.
+- Separar los resultados repetibles de los hallazgos aislados.
+
+Este registro se irá ampliando con evidencia real de producción. No se deben presentar como comprobadas las convenciones que todavía no hayan sido contrastadas con muestras.
+
