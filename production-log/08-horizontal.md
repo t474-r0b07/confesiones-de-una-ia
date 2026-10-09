@@ -105,3 +105,28 @@ La imagen de referencia del salón debe anclar la arquitectura y la distribució
 - Registrar después qué tomas se utilizaron, cuáles se descartaron y qué problemas reales de continuidad aparecieron.
 
 Esta revisión documenta riesgos visibles en los prompts escritos; no afirma que Flow necesariamente vaya a producir esos errores.false
+
+## Continuidad narrativa con las partes 1 y 2
+
+Este episodio continúa el recorrido visual y emocional de las dos partes anteriores.
+
+### Parte 1 — El nuevo hogar
+
+Piti acomoda en su nuevo espacio diplomas, trofeos, colecciones y fotografías. La escena trabaja con objetos asociados con su historia e identidad. Termina con «eso me jode…» y el monólogo sobre los humanos que aman aun sabiendo que todo termina.
+
+### Parte 2 — Las plantas
+
+Piti incorpora una orquídea y un cactus junto al ventanal y comienza a observarlos y cuidarlos. Registra el estado inicial y los cambios mediante fotografías y timelapse. La orquídea se marchita mientras el cactus florece; Piti compara resultados, analiza variables y formula una hipótesis con una confianza estimada del 61 %. Al final, guarda la flor caída dentro de un libro y riega/toca la flor naranja del cactus. El cierre se resuelve con la acción, sin añadir un log final.
+
+Convención de los registros de esta parte: las líneas de sistema empiezan con `> ` y usan MAYÚSCULAS; el razonamiento de Piti va en minúsculas. Los comandos incluyen análisis del espacio, detección de objetos, inicio de rutina de cuidado, registro y actualización de estado, detección del cambio, comparación de resultados, análisis de variables, búsqueda de correlación, formulación de hipótesis, estimación de confianza al 61 % y procesamiento de la flor.
+
+### Parte 3 — El telescopio y Micro
+
+La parte 3 desplaza el foco de los objetos personales y la observación de seres vivos hacia el telescopio y la contemplación del cielo. La llegada de Micro desplaza la atención de Piti desde lo lejano hacia lo pequeño y cercano.
+
+Como progresión de las acciones documentadas —sin imponer una interpretación simbólica ni añadir diálogo—: Parte 1, Piti organiza objetos asociados con su identidad e historia; Parte 2, observa cambios y trata de cuidar y comparar aunque los resultados no sigan una expectativa simple; Parte 3, contempla el cosmos y termina prestando atención a Micro.
+
+### Estado de la información
+
+Estas notas reconstruyen los antecedentes de las partes 1 y 2 a partir del resumen de producción disponible en la conversación. No sustituyen los logs completos originales ni afirman que se hayan comprobado aquí sus archivos fuente. Cuando se localicen los logs ya creados, enlazarlos desde este registro en lugar de duplicarlos.
+
