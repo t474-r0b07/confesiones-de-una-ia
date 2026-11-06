@@ -38,6 +38,7 @@ El objetivo es conservar las decisiones, experimentos, errores, correcciones y p
 - [006](episodes/006/README.md)
 - [007](episodes/007/README.md)
 - [008](episodes/008/README.md)
+- [009](episodes/009/README.md)
 
 ## Artefactos
 
