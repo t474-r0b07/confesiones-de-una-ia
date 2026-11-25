@@ -2,7 +2,9 @@
 
 Material de producción de *Confesiones de una IA* — episodio 008.
 
-## Concepto
+**Estado de producción: terminado.**
+
+## Concepto documentado
 
 El episodio abandona el formato vertical breve y utiliza el encuadre horizontal para sostener acciones, silencios y cambios de atención durante más tiempo.
 
@@ -16,8 +18,6 @@ La secuencia central parte de Piti montando un telescopio y observando el cielo 
 - [Artefactos del proceso](../../artifacts/README.md)
 - [Pruebas de audio](../../artifacts/audio-tests/README.md)
 
-## Estado
+## Estado de documentación
 
-**Documentación del concepto registrada; producción final pendiente de contrastar con el montaje.**
-
-Este archivo funciona como punto de entrada al material del episodio. A medida que se incorporen pruebas, se enlazarán aquí los guiones, referencias, tomas utilizadas y decisiones verificadas. No se considerará finalizado un plano solo porque aparezca en la planificación.
+La producción del episodio está terminada, según confirmación del responsable del proyecto. La documentación existente describe el concepto, pero la ficha individual todavía puede ampliarse con guion, montaje final y artefactos seleccionados. No se inventan detalles de producción que aún no estén registrados en este repositorio.
